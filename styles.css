@@ -2,6 +2,9 @@
   border: 5px solid Tomato;
   text-align: center;
 }
+body {
+background-color: DodgerBlue;
+}
 /* Add a black background color to the top navigation */
 .navbar {
   background-color: #333;
