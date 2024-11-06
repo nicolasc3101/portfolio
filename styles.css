@@ -1,5 +1,6 @@
 .banner {
   border: 5px solid Tomato;
+  text-align: center;
 }
 /* Add a black background color to the top navigation */
 .navbar {
