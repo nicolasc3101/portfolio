@@ -7,6 +7,7 @@ background-color: DodgerBlue;
 }
 .heading {
 text-align: center;
+font-size: 45px; 
 }
 /* Add a black background color to the top navigation */
 .navbar {
