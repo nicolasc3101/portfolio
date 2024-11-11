@@ -2,6 +2,9 @@
   border: 5px solid Tomato;
   text-align: center;
 }
+.banner img {
+width: 50px; 
+}
 body {
 background-color: DodgerBlue;
 }
