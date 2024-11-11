@@ -1,9 +1,17 @@
 .banner {
   border: 5px solid Tomato;
-  text-align: center;
+}
+.banner text {
+text-align: center;
 }
 .banner img {
 width: 95px; 
+}
+#bannerleft {
+text-align: left;
+}
+#bannerright {
+text-align: right; 
 }
 body {
 background-color: DodgerBlue;
