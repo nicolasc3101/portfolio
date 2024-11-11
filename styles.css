@@ -9,6 +9,9 @@ background-color: DodgerBlue;
 text-align: center;
 font-size: 45px; 
 }
+p {
+font-size: 20px; 
+}
 /* Add a black background color to the top navigation */
 .navbar {
   background-color: #333;
