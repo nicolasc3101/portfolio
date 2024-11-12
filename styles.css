@@ -24,6 +24,9 @@ p {
 font-size: 20px; 
 font-family: Monaco, monospace; 
 }
+.centered {
+text-align: center;
+}
 /* Add a black background color to the top navigation */
 .navbar {
   background-color: #333;
